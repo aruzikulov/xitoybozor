@@ -13,13 +13,13 @@ $_['text_agree']           = 'I have read and agree to the <a href="%s" class="a
 
 // Entry
 $_['entry_customer_group'] = 'Customer Group';
-$_['entry_firstname']      = 'First Name';
-$_['entry_lastname']       = 'Last Name';
+$_['entry_firstname']      = 'Ismingiz';
+$_['entry_lastname']       = 'Familiyangiz';
 $_['entry_email']          = 'E-Mail';
-$_['entry_telephone']      = 'Telephone';
-$_['entry_newsletter']     = 'Subscribe';
-$_['entry_password']       = 'Password';
-$_['entry_confirm']        = 'Password Confirm';
+$_['entry_telephone']      = 'Telefon raqami';
+$_['entry_newsletter']     = 'Obuna';
+$_['entry_password']       = 'Parol';
+$_['entry_confirm']        = 'Parolni qayta kiriting';
 
 // Error
 $_['error_exists']         = 'Warning: E-Mail Address is already registered!';
