@@ -3,9 +3,9 @@
 $_['heading_title']       = 'Mening Akkauntim';
 
 // Text
-$_['text_account']        = 'Akaount';
+$_['text_account']        = 'Account';
 $_['text_my_account']     = 'Mening Akkauntim';
-$_['text_my_orders']      = 'Mening buyurtmalarim';
+$_['text_my_orders']      = 'My Orders';
 $_['text_my_affiliate']   = 'My Affiliate Account';
 $_['text_my_newsletter']  = 'Newsletter';
 $_['text_edit']           = 'Edit your account information';
